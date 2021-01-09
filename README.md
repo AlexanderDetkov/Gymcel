@@ -1,2 +1,2 @@
 # Gymcel
-Android App for managing your University of Alberta Fitness Appointment Booking.
+Android App for managing your University of Alberta fitness appointment booking.
